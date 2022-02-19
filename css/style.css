@@ -1,0 +1,27 @@
+fieldset{
+    background-color: white;
+    text-align: center;
+}
+
+h1{color: rgb(135, 50, 205);
+   
+}
+
+lavel{
+    color: rgb(255, 127, 206);
+}
+.st{
+    color:rgb(42, 126, 165);
+    background-color: aqua;
+}
+.nd{
+    color:blueviolet;
+    background-color: aqua;
+}
+button{
+    background-color: aqua;
+}
+body{
+    background-color: aqua;
+}
+
